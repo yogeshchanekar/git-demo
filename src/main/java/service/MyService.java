@@ -10,6 +10,8 @@ public class MyService {
 
     // test commit2
 
+    // code added for merging purposes merge1
+
     String myurl = "https://jgentes-crime-data-v1.p.rapidapi.com/crime?startdate=9%2F19%2F2015&enddate=9%2F25%2F2015&long=-122.5076392&lat=37.757815";
 
     public MyService(WebClient.Builder webClientBuilder) {
